@@ -5,42 +5,42 @@
       "nome": "100MB",
       "preco": 79.90,
       "categoria": "Internet",
-      "datalhes": "os melhores planos pra você"
+      "detalhes": "os melhores planos pra você"
     },
     {
       "id": "2",
       "nome": "200MB",
       "preco": 89.90,
       "categoria": "Internet",
-      "datalhes": "os melhores planos pra você"
+      "detalhes": "os melhores planos pra você"
     },
     {
       "id": "3",
       "nome": "300MB",
       "preco": 99.90,
       "categoria": "Internet",
-      "datalhes": "os melhores planos pra você"
+      "detalhes": "os melhores planos pra você"
     },
     {
       "id": "4",
       "nome": "Ilimitado Fixo brasil",
       "preco": 49.90,
       "categoria": "Fixo",
-      "datalhes": "os melhores planos pra você"
+      "detalhes": "os melhores planos pra você"
     },
     {
       "id": "5",
       "nome": "Ultimate HD",
       "preco": 119.90,
       "categoria": "TV",
-      "datalhes": "os melhores planos pra você"
+      "detalhes": "os melhores planos pra você"
     },
     {
       "id": "6",
       "nome": "Full HD",
       "preco": 129.90,
       "categoria": "TV",
-      "datalhes": "os melhores planos pra você"
+      "detalhes": "os melhores planos pra você"
     }
   ]
 }
