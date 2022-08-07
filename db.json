@@ -1,30 +1,46 @@
 {
   "produtos":[
     {
-      "id": "notebook",
-      "nome": "Notebook",
-      "preco": 2999
+      "id": "1",
+      "nome": "100MB",
+      "preco": 79.90,
+      "categoria": "Internet",
+      "datalhes": "os melhores planos pra você"
     },
     {
-      "id": "smartphone",
-      "nome": "Smartphone",
-      "preco": 1299
+      "id": "2",
+      "nome": "200MB",
+      "preco": 89.90,
+      "categoria": "Internet",
+      "datalhes": "os melhores planos pra você"
     },
     {
-      "id": "tablet",
-      "nome": "Tablet",
-      "preco": 899
-
+      "id": "3",
+      "nome": "300MB",
+      "preco": 99.90,
+      "categoria": "Internet",
+      "datalhes": "os melhores planos pra você"
     },
     {
-      "id": "smartwatch",
-      "nome": "Smartwatch",
-      "preco": 1199
+      "id": "4",
+      "nome": "Ilimitado Fixo brasil",
+      "preco": 49.90,
+      "categoria": "Fixo",
+      "datalhes": "os melhores planos pra você"
     },
     {
-      "id": "speaker",
-      "nome": "Speaker",
-      "preco": 599
+      "id": "5",
+      "nome": "Ultimate HD",
+      "preco": 119.90,
+      "categoria": "TV",
+      "datalhes": "os melhores planos pra você"
+    },
+    {
+      "id": "6",
+      "nome": "Full HD",
+      "preco": 129.90,
+      "categoria": "TV",
+      "datalhes": "os melhores planos pra você"
     }
   ]
 }
